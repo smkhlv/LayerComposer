@@ -1,0 +1,20 @@
+# Build
+.build/
+.swiftpm/
+DerivedData/
+
+# Xcode
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# OS
+.DS_Store
+.Trashes
+
+# IDE
+*.swp
+*~
+.idea/
+.vscode/
